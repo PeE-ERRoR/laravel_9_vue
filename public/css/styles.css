@@ -1,0 +1,45 @@
+body {
+    background: url('../img/BG-KB.png') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+.text-white {
+    color: white;
+}
+.text-yellow {
+    color: #FFBE00;
+}
+.text-blue {
+    color: #2D5FE2;
+}
+.box-slie {
+    padding: 10px;
+    color: white;
+}
+.box-profile {
+    background-color: #1551D5;
+    padding: 20px;
+    /* height: 30vw; */
+}
+.box-img-profile {
+    border-radius: 10%;
+    border: 1;
+    padding: 30;
+}
+.box-enroll {
+    background-color: #F3F3F5;
+    padding: 1vw;
+    border-radius: 30px;
+}
+.btn-enroll {
+    background-color: #FFBE00;
+    padding: .5vw;
+    padding-left: 2vw;
+    padding-right: 2vw;
+    border-radius: 15px;
+    font-size: 1.5em;
+    color: white;
+}
